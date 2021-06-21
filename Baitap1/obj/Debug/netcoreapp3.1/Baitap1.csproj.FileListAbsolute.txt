@@ -1,0 +1,13 @@
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.exe
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.deps.json
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.json
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.runtimeconfig.dev.json
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.dll
+D:\Học Tập\ThiModule2\Baitap1\bin\Debug\netcoreapp3.1\Baitap1.pdb
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.csproj.AssemblyReference.cache
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfoInputs.cache
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.AssemblyInfo.cs
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.csproj.CoreCompileInputs.cache
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.dll
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.pdb
+D:\Học Tập\ThiModule2\Baitap1\obj\Debug\netcoreapp3.1\Baitap1.genruntimeconfig.cache

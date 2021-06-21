@@ -1,0 +1,13 @@
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.exe
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.deps.json
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.runtimeconfig.json
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.runtimeconfig.dev.json
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.dll
+D:\Học Tập\ThiModule2\Baitap2\bin\Debug\netcoreapp3.1\Baitap2.pdb
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.csproj.AssemblyReference.cache
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.AssemblyInfoInputs.cache
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.AssemblyInfo.cs
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.csproj.CoreCompileInputs.cache
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.dll
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.pdb
+D:\Học Tập\ThiModule2\Baitap2\obj\Debug\netcoreapp3.1\Baitap2.genruntimeconfig.cache
